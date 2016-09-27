@@ -11,7 +11,7 @@
 3. App Hook答疑以及iOS 9砸壳（番外篇）
 4. 利用XPC过App沙盒
 5. UAF and Kernel PWN
-6. ██████████████████████████
+6. 基于PEGASUS（三叉戟）的OS X 10.11.6本地提权 (番外篇) https://github.com/zhengmin1989/OS-X-10.11.6-Exp-via-PEGASUS
 
 
 
