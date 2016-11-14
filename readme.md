@@ -2,7 +2,7 @@
 
 作者微博：蒸米spark http://www.weibo.com/zhengmin1989
 
-文章地址： http://drops.wooyun.org/author/%E8%92%B8%E7%B1%B3
+文章地址： https://github.com/zhengmin1989/MyArticles
 
 冰指的是用户态，火指的是内核态。如何突破像冰箱一样的用户态沙盒最终到达并控制如火焰一般燃烧的内核就是《iOS冰与火之歌》这一系列文章将要讲述的内容。目录如下：
 
